@@ -6,9 +6,8 @@ used to send signals and how motor shield gets instructions and how they works o
 move in correct direction.
 
 ## This Project covers the following implementations:
-  • Moving car in all directions i.e. Forward ,Backward, Right, Left, Forward-Right, Forward-
-Left, Backward-Right, Backward-Left.\
-  • Varying speed of car from 100 to 255..
+  - Moving car in all directions i.e. Forward ,Backward, Right, Left, Forward-Right, Forward-Left, Backward-Right, Backward-Left.
+  - Varying speed of car from 100 to 255..
  
 ## Component used:
 Following Components our included in our RC car.
